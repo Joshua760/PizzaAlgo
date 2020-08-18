@@ -2,3 +2,5 @@
 2. Decide which type of pizza to order.
 3. Set an address and payment method.
 4. Wait for pizza.
+5. Eat pizza.
+6. Sleep.
